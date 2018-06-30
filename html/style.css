@@ -1,0 +1,19 @@
+
+
+p{
+	//color: red;
+}
+.opts{
+	text-indent: 2em;
+}
+mtxt{
+	font-weight: bold;
+}
+ur{
+	border-bottom:2px solid #f00;
+}
+
+opt{
+	color: grey;
+	font-size: .5em;
+}
